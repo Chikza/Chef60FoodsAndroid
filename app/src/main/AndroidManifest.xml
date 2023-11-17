@@ -16,11 +16,14 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
+            android:name=".ReservationViewActivity"
+            android:exported="false" />
+        <activity
             android:name=".CardTakeIn"
             android:exported="false" />
         <activity
             android:name=".PaymentCheckoutActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".SplashScreenActivity"
             android:exported="true">

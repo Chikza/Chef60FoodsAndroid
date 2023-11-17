@@ -86,6 +86,9 @@ public class PaymentCheckoutActivity extends AppCompatActivity {
                                 Log.d(TAG, String.format("CaptureOrderResult: %s", result));
                                 Toast.makeText(PaymentCheckoutActivity.this, "Reservation Successful", Toast.LENGTH_SHORT).show();
 
+                                Intent i = new Intent(PaymentCheckoutActivity.this, ReservationViewActivity.class);
+                                startActivity(i);
+
                             }
                         });
                     }

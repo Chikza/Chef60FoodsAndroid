@@ -31,6 +31,7 @@
         android:backgroundTint="@color/light_grey"
         android:ems="10"
         android:hint="Name of Reserver"
+        android:textColor="@color/black"
         android:inputType="textPersonName" />
 
     <EditText
@@ -45,6 +46,7 @@
         android:backgroundTint="@color/light_grey"
         android:ems="10"
         android:hint="Please Enter the Number of Persons"
+        android:textColor="@color/black"
         android:inputType="number" />
 
     <EditText
@@ -59,6 +61,7 @@
         android:backgroundTint="@color/light_grey"
         android:ems="10"
         android:hint="Please Enter the Number of Tables"
+        android:textColor="@color/black"
         android:inputType="number" />
 
     <EditText
@@ -76,7 +79,8 @@
         android:ems="10"
         android:focusable="false"
         android:focusableInTouchMode="false"
-        android:hint="Reservation Date" />
+        android:hint="Reservation Date"
+        android:textColor="@color/black"/>
 
     <EditText
         android:id="@+id/etChooseTime"
@@ -89,7 +93,8 @@
         android:background="@drawable/login_text_background"
         android:backgroundTint="@color/light_grey"
         android:ems="10"
-        android:hint="Choose the Time of Reservation" />
+        android:hint="Choose the Time of Reservation"
+        android:textColor="@color/black"/>
     
     <Button
         android:id="@+id/btnSubmit"
