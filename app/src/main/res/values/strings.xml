@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Chef60Foods</string>
+    <string name="cheese_burger">Cheese Burger</string>
+    <string name="indulge_in_our_cheeseburger_which_is_a_juicy_mouthwatering_delight_that_tantalizes_taste_buds_with_a_perfect_blend_of_savory_beef_patty_melted_cheese_and_an_array_of_fresh_crisp_toppings_all_embraced_by_a_soft_toasted_bun_it_s_a_culinary_masterpiece_that_marries_comfort_and_indulgence_creating_a_symphony_of_flavors_in_every_satisfying_bite">Indulge in our cheeseburger which is a juicy, mouthwatering delight that tantalizes taste buds with a perfect blend of savory beef patty, melted cheese, and an array of fresh, crisp toppings, all embraced by a soft, toasted bun. It\'s a culinary masterpiece that marries comfort and indulgence, creating a symphony of flavors in every satisfying bite.</string>
+    <string name="reserve_now">Reserve Now</string>
+    <string name="fried_chicken">Fried Chicken</string>
+    <string name="a_crispy_golden_treasure_that_transforms_tender_succulent_chicken_pieces_into_a_savory_symphony_of_flavor_and_texture_with_its_tantalizing_crunch_and_mouthwatering_juiciness_it_s_a_comfort_food_classic_that_never_fails_to_make_taste_buds_dance_with_delight_whether_served_with_a_side_of_fluffy_biscuits_mashed_potatoes_or_nestled_between_a_soft_bun_fried_chicken_is_a_beloved_culinary_masterpiece">A Crispy, golden treasure that transforms tender, succulent chicken pieces into a savory symphony of flavor and texture. With its tantalizing crunch and mouthwatering juiciness, it\'s a comfort food classic that never fails to make taste buds dance with delight. Whether served with a side of fluffy biscuits, mashed potatoes, or nestled between a soft bun, fried chicken is a beloved culinary masterpiece.</string>
+    <string name="pizza">Pizza</string>
+    <string name="pizza_the_universal_symbol_of_comfort_food_is_a_delectable_round_canvas_of_joy_topped_with_a_harmonious_medley_of_tomato_sauce_melted_cheese_and_a_plethora_of_mouthwatering_ingredients_it_s_a_slice_of_pure_happiness_whether_enjoyed_as_a_classic_margherita_or_a_creative_concoction_pizza_is_a_culinary_masterpiece_that_unites_people_in_the_delightful_pursuit_of_flavor">Pizza, the universal symbol of comfort food, is a delectable round canvas of joy. Topped with a harmonious medley of tomato sauce, melted cheese, and a plethora of mouthwatering ingredients, it\'s a slice of pure happiness. Whether enjoyed as a classic Margherita or a creative concoction, pizza is a culinary masterpiece that unites people in the delightful pursuit of flavor.</string>
+    <string name="dagwood_sandwiches">Dagwood Sandwiches</string>
+    <string name="an_epic_creation_consisting_of_layers_of_assortment_of_meats_cheeses_vegetables_and_condiments_between_slices_of_hearty_bread_creating_a_colossal_sandwich_that_s_as_impressive_as_it_is_delicious_it_s_a_culinary_work_of_art_a_towering_tribute_to_the_art_of_sandwich_making">An epic creation consisting of layers of assortment of meats, cheeses, vegetables, and condiments between slices of hearty bread, creating a colossal sandwich that\'s as impressive as it is delicious. It\'s a culinary work of art, a towering tribute to the art of sandwich-making.</string>
+    <string name="desserts">Desserts</string>
+    <string name="indulge_in_a_symphony_of_flavors_with_our_choco_berry_bliss_a_decadent_chocolate_mousse_infused_with_the_tartness_of_fresh_raspberries_elegantly_nestled_on_a_velvety_bed_of_dark_chocolate_ganache_this_dessert_is_a_dance_of_contrasts_where_sweetness_meets_tang_and_every_bite_is_a_harmonious_delight_for_your_taste_buds">Indulge in a symphony of flavors with our \'Choco-Berry Bliss\' – a decadent chocolate mousse infused with the tartness of fresh raspberries, elegantly nestled on a velvety bed of dark chocolate ganache. This dessert is a dance of contrasts, where sweetness meets tang, and every bite is a harmonious delight for your taste buds.</string>
+    <string name="beverages">Beverages</string>
+    <string name="beverages_are_like_a_liquid_symphony_for_your_taste_buds_offering_a_tantalizing_array_of_flavors_and_sensations_to_quench_your_thirst_from_the_soothing_embrace_of_a_hot_cup_of_tea_to_the_effervescent_dance_of_a_carbonated_soda_these_liquid_elixirs_have_the_power_to_refresh_invigorate_and_delight_turning_everyday_sips_into_extraordinary_experiences">Beverages are like a liquid symphony for your taste buds, offering a tantalizing array of flavors and sensations to quench your thirst. From the soothing embrace of a hot cup of tea to the effervescent dance of a carbonated soda, these liquid elixirs have the power to refresh, invigorate, and delight, turning everyday sips into extraordinary experiences.</string>
+    <string name="burger">Burger</string>
+    <string name="ice_cream_desserts">Ice Cream Desserts</string>
+    <string name="watermelon_fountain">Watermelon Fountain</string>
+    <string-array name="type">
+        <item>Select Menu Item</item>
+        <item>Burger</item>
+        <item>Fried Chicken</item>
+        <item>Pizza</item>
+        <item>Dagwood Sandwiches</item>
+        <item>Desserts</item>
+        <item>Beverages</item>
+    </string-array>
+</resources>

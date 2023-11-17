@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "431052223893",
+    "project_id": "chef60foodsandroid",
+    "storage_bucket": "chef60foodsandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431052223893:android:b4125799d07a75a92f729c",
+        "android_client_info": {
+          "package_name": "com.example.chef60foods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF-OjitkAmZoiURVcjjDEERgatZ3_swc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431052223893:android:7bcdba29d313a2802f729c",
+        "android_client_info": {
+          "package_name": "com.example.chef60foodsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF-OjitkAmZoiURVcjjDEERgatZ3_swc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431052223893:android:f3ee7c4cf296787d2f729c",
+        "android_client_info": {
+          "package_name": "com.example.chef60project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF-OjitkAmZoiURVcjjDEERgatZ3_swc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

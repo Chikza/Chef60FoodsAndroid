@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".PersonalInfoActivity"
+    android:background="@drawable/bg">
+
+    <TextView
+        android:id="@+id/textView2"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_margin="5dp"
+        android:textColor="#FF5722"
+        android:text="Personal Information" />
+
+    <EditText
+        android:id="@+id/txtPersonName"
+        android:layout_width="350dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/login_text_background"
+        android:backgroundTint="@color/light_grey"
+        android:hint="Please Enter Your Full Name"
+        android:inputType="textPersonName"
+        android:paddingStart="10sp"
+        android:textColor="@color/black"
+        android:textColorHint="#000000" />
+
+    <EditText
+        android:id="@+id/txtEmail"
+        android:layout_width="350dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/login_text_background"
+        android:backgroundTint="@color/light_grey"
+        android:hint="Please Enter Your Email Address"
+        android:inputType="textEmailAddress"
+        android:paddingStart="10sp"
+        android:textColor="@color/black"
+        android:textColorHint="#000000" />
+
+    <EditText
+        android:id="@+id/txtPhoneNumber"
+        android:layout_width="350dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/login_text_background"
+        android:backgroundTint="@color/light_grey"
+        android:ems="10"
+        android:hint="Please Enter Your Phone Number"
+        android:inputType="phone"
+        android:paddingStart="10sp"
+        android:textColor="@color/black"
+        android:textColorHint="#000000" />
+
+    <EditText
+        android:id="@+id/txtHomeAddress"
+        android:layout_width="350dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/login_text_background"
+        android:backgroundTint="@color/light_grey"
+        android:hint="Please Enter Your Address"
+        android:inputType="text"
+        android:paddingStart="10sp"
+        android:textColor="@color/black"
+        android:textColorHint="#000000" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:backgroundTint="#FF5722"
+        android:text="Save"
+        android:textAllCaps="false"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"/>
+
+</LinearLayout>
