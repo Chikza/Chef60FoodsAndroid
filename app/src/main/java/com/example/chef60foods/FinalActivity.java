@@ -22,7 +22,7 @@ public class FinalActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_final);
 
-        TextView textView = findViewById(R.id.tv1);
+        TextView textView = findViewById(R.id.tv3);
         btnPayNow = findViewById(R.id.btnPayNow);
         btnEdit = findViewById(R.id.btnEdit);
         Intent i = getIntent();
